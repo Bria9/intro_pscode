@@ -2,3 +2,25 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+🔹 Use a function to tell the computer to generate a random number.
+
+🔹 Store generated number into a variable called "RandomNum".
+
+🔹 Create a variable for the number of guesses  called “NumOfGuesses” and set it equal to 0
+
+🔹 Collect user input: Prompt the user to choose a number between 1 and 10.
+
+🔹 Store user input into a variable called "guess".
+
+🔹 Use a loop to compare "guess" to "RandomNum".
+
+🔹 While the number of guesses is less than 3 
+    If "guess" is equal to "randomnum"
+    print congratulations You’ve won 🎉 !”
+    and end the game. 
+    
+🔹 Otherwise continue to play until 3 guesses have been made
+    then print “Sorry, You’ve lost…”
+    and end the game.
+
+
