@@ -2,3 +2,27 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Start
+
+🔹 Warehouse layout & Coordinates
+
+◆ Design 5 x 5 grid warehouse layout
+
+◆ Create lists for x and y-axis containing integers 0-4
+
+◆ Use nested for loops to generate coordinates for rows and columns
+
+🔹 Movement
+
+◆ Create a variable called “CurrentSpace”  and set it equal to 0
+
+◆ Create variables, assign Keys, and add or subtract 1 if user input matches key
+ N = +1 S  = -1 E = +1 W = -1
+
+◆ Create a variable called “Target” 
+Target = 22
+
+if target == 22 
+print "You've reached target.
+
+END
