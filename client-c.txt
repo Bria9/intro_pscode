@@ -2,3 +2,17 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+◆ Python ◆
+
+Start 
+
+🔹 Create variable called "items" to represent one package
+
+items = 2
+
+🔹 Use a for loop to add 2 items to each package.
+
+for items in range(0,49):
+    print(items + 2)
+
+End
